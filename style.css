@@ -1,0 +1,41 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 800px;
+    height: 50px;
+    
+body
+
+/* grid */
+<h1> { color:purple;
+    </h1>
+}
+
+.board {
+display: grid;
+grid-template-columns: 100px 100px 100px;
+column-gap: 50px;
+padding: 10px
+}
+
+div {
+    border:3px solid black
+}
+.board > div{
+    background-color: salmon;
+}
+
+.board > div:nth-child(2n+1) {
+    background-color: springgreen;
+}
+
+.board > div {
+    width: 65px;
+    height: 65px;
+    border: 3px rgb(22, 180, 194)
+}
+
+div {
+border:3px solid black 
+
+}
